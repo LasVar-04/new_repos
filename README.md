@@ -1,4 +1,3 @@
 # new_repos
 for pr
-echo "Hello world"
-echo "Что-то написали"
+echo "Hello world Что-то написали"
