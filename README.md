@@ -1,2 +1,2 @@
 # new_repos
-Что-то написали
+echo "aphahahahah"
